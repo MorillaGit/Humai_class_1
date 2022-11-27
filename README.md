@@ -28,10 +28,10 @@ The organization of this repository is as follows:
     conda create -n myenv python=3.7
 
 ### Clone the project repository
-    git clone https://github.com/MorillaGit/ETL_basic
+    git clone https://github.com/MorillaGit/Humai_class_1
 
 #### move to the project directory
-    cd ETL_basic
+    cd Humai_class_1
 
 ### Install the requirements
     pip install -r requirements.txt
