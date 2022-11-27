@@ -1,0 +1,6 @@
+2022-11-27 11:19:06,321 Start get data from API
+2022-11-27 11:19:06,751 The data was obtained successfully
+2022-11-27 11:19:06,751 Start transform data to DataFrame
+2022-11-27 11:19:06,754 The data was transformed successfully
+2022-11-27 11:19:06,754 Start load data to csv
+2022-11-27 11:19:06,758 The data was loaded successfully
