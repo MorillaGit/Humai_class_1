@@ -1,8 +1,7 @@
 
 # Basic ETL
 ## Introduction
-This repository has the function obtain data from a simple API from [Number API](http://numbersapi.com/#42)
-and load it csv file.
+This repository has the function obtain data from a simple API from [Number API](http://numbersapi.com/#42). The API retune a random description of this number and load it csv file.
 
 <img title="output"  src="assets/api_image.png">
 
@@ -37,7 +36,11 @@ The organization of this repository is as follows:
     pip install -r requirements.txt
 
 # Run the project
-    python src/main.py
+    python src/main.py -n 42
+
+42 --> is a example number
+### Parameters
+* `--number o -n`: is the number to extract from the API. Must be a integer number between 0 and 99.
 
 
 ## Expected output
